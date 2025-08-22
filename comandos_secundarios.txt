@@ -1,3 +1,5 @@
 esse arquivos contem informacoes adicionais pra git
 1- Primeiro comando
 2- Segundo comando
+
+Comandos mais genéricos
